@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://qgkr.github.io/sitemap.xml
